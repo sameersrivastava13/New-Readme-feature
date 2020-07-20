@@ -2,8 +2,8 @@
 <p align = 'center'> 
  <a href = https://www.linkedin.com/in/sameer-srivastava-1308/ target='_blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>Hello, i am Sameer Srivastava.
-Born and raised in Lucknow.
+<p align='center'>
+Am Born and raised in Lucknow.
 I have completed my 12th with ISC board from Modern Academy in lucknow.
 Presently am pursuing my btech degree in computer science from Dit university.
 Presently, i am doing an internship with Celebal technologies as a python developer intern.
