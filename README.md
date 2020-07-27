@@ -13,4 +13,4 @@ Go through my profile to know more.
 thanks. </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
  <a href = https://github.com/sameersrivastava13 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/sameer-srivastava-1308/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://www.linkedin.com/in/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
