@@ -6,6 +6,7 @@
 Am Born and raised in Lucknow.
 I have completed my 12th with ISC board from Modern Academy in lucknow.
 Presently am pursuing my btech degree in computer science from Dit university.
+Presently, i am doing an internship with Celebal technologies as a python developer intern.
 Also, i have done an internship with smart joules pvt. Ltd. as an product manager in DIT University for almost a year.
 I have done training in data analytics and machine learning with ei systems services.
 My positive attitude and problem solving skills has always helped me to solve various challenges in my academics and internship.
